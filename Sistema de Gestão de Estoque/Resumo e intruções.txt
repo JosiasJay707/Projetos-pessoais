@@ -1,0 +1,26 @@
+Sistema de Gestão de Estoque
+
+Resumo:
+Projeto final do 2º semestre de Sistema de informação, desenvolvido em dupla.
+
+Sistema simples para controle de estoque, projetado para microempresas e microempreendedores. Permite gerenciar produtos, entradas/saídas e consultas em tempo real, com interface exclusiva para desktop.
+
+✨ Funcionalidades Principais
+	- Cadastro completo de produtos (nome, código, categoria, referência de fábrica e mais)
+	- Registro de entradas e saídas de estoque com atualizações automáticas
+	- Consulta rápida e em tempo real do estoque atual
+	- Interface gráfica para desktop (Java Swing)
+
+🛠️ Tecnologias Utilizadas
+	- Java: Lógica de negócio
+	- Java Swing: Interface gráfica desktop responsiva
+	- MySQL: Banco de dados local para armazenamento e gerenciamento de dados
+	
+📱 Pré-requisitos
+	- Antes de executar o projeto, certifique-se de ter instalado:
+	- Java JDK 17 ou superior
+	- MySQL 8.0+ (ou XAMPP/Workbench)
+📱 Como Usar
+	- Clone o repositório: git clone https://github.com/JosiasJay707/Projetos-pessoais.git
+	- Execute o script "SQL_Scripts_v1.0.sql" (incluído no repositório) para criar as tabelas.
+	- Execute java -jar System.jar ou compile via IDE (NetBeans/IntelliJ)
