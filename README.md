@@ -1,2 +1,2 @@
-# Projeto-pessoal
-Este repositório tem como fim reunir e expor projetos pessoais desenvolvidos por mim, e colaborações feitas para outros desenvolvedores e uma linha do tempo da minha evolução como dev. Aqui, encontra-se códigos práticos, experimentos e soluções para problemas reais. Explore, clone, contribua ou dê feedback!
+# Projeto pessoal e academico
+Repositório com projetos pessoais, acadêmicos e colaborações — uma linha do tempo da minha evolução como desenvolvedor. Fique à vontade pra explorar, clonar ou deixar feedback.
